@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -966,6 +966,5 @@
       document.getElementById('holiday-popup').close();
     }
   </script>
-</body>
-</html>
+
 
